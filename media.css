@@ -1,0 +1,14 @@
+@media(max-widh:1198px){
+    .contauiner{
+        width: 1000px;   
+ }
+ }
+ @media(max-widh:999){
+.contauiner{
+    width: 800px;
+}
+ }
+ .weekend h1{
+    font-size: 50px;
+        
+ }
